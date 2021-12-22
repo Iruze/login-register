@@ -1,0 +1,20 @@
+body {
+  background:url("../image/fengjing_1.jpeg")  no-repeat center center;
+  background-size:cover;
+  background-attachment:fixed;
+  background-color:#CCCCCC;
+}
+.form-register {
+  width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-group {
+  margin-bottom: 5px;
+}
+form a{
+  display: inline-block;
+  margin-top:25px;
+  line-height: 10px;
+}
